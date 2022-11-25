@@ -53,19 +53,21 @@
             ]
         },
         {
+            "image" : "images/projects/budget-poster.png",
             "title": "Budgeting App",
-            "bodyText": "- An Android App that allows users to send texts in real time\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "bodyText": "- A Desktop app that helps users manage and budget their income\n - Built in **WPF** and coded in **C#**\n - Stores expenses in a database field stored locally \n - Users can use a Grid view or a Pie Chart view to visualize their budget",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/JosephAmbayec/HomeBudgetingApp"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "C#",
+                "Desktop",
+                "WPF",
+                "MVP Architecture",
+                "Agile Workflow"
             ]
         },
         {
