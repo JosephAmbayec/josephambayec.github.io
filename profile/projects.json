@@ -5,6 +5,10 @@
             "title": "Arena of Champions",
             "bodyText": "- An Upcoming Arena Fighting Game!\n- Battle an AI until you can't\n- Upgrade your Champion using XP gained from enemies",
             "links": [
+                {
+                    "text": "Live Site",
+                    "href": "https://arenaofchampions.netlify.app"
+                }
             ],
             "tags" : [
                 "Canvas HTML",
