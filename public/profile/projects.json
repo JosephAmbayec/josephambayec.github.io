@@ -42,10 +42,10 @@
                     "text": "GitHub",
                     "href": "https://github.com/JosephAmbayec/Car-Part-Inventory-Tracker"
                 },
-                {
-                    "text": "Live Site",
-                    "href": "https://carparts.josephambayec.dev"
-                }
+              {
+                "text": "Live Site",
+                "href": "https://carpartmanager.herokuapp.com/"
+              }
             ],
             "tags" : [
                 "JavaScript",
