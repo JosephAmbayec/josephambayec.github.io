@@ -3,7 +3,7 @@
     {
       "image": "images/projects/crimescapedemo.gif",
       "title": "CrimeScape",
-      "bodyText": "- A crime data visualizer and AI forecaster made for ConUHacks 8",
+      "bodyText": "- A crime data visualizer and AI forecaster made for ConUHacks 8!\n- Displays crime heatmap of Montreal with real data provided by the city.\n- CrimeScape is an a Award Winning Project at ConUHacks 8 - Award: Best Usage of MongoDB",
       "links": [
         {
           "text": "Devpost",
