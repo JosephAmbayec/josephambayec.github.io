@@ -20,12 +20,12 @@
         {
             "title": "Projects",
             "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://www.linkedin.com/posts/joseph-ambayec_joseph-ambayec-resume-activity-6969706841077383168-TlgI?utm_source=share&utm_medium=member_desktop",
+            "type": "link"
         }
-        //{
-        //    "title": "Resume",
-        //    "href": "https://www.linkedin.com/posts/joseph-ambayec_joseph-ambayec-resume-activity-6969706841077383168-TlgI?utm_source=share&utm_medium=member_desktop",
-        //    "type": "link"
-        //}
     ]
 
 }
