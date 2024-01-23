@@ -15,7 +15,7 @@
       ]
     },
     {
-      "image": "images/projects/crimescapedemo.gif",
+      "image": "images/projects/crimescapedemos.gif",
       "title": "CrimeScape",
       "bodyText": "- A crime data visualizer and AI forecaster made for ConUHacks 8!\n- Displays crime heatmap of Montreal with real data provided by the city.\n- CrimeScape is an a Award Winning Project at ConUHacks 8 - Award: Best Usage of MongoDB",
       "links": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "image": "images/projects/noro_slash.gif",
+      "image": "images/projects/noro_slashs.gif",
       "title": "Arena of Champions",
       "bodyText": "- An Upcoming Arena Fighting Game!\n- Battle an AI until you can't\n- Upgrade your Champion using XP gained from enemies",
       "links": [
