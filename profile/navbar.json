@@ -21,10 +21,11 @@
             "title": "Projects",
             "href": "/projects"
         },
-        {
-            "title": "",
-            "href": ""
-        }
+      {
+        "title": "Resume",
+        "href": "https://media.licdn.com/dms/document/media/D4E2DAQHVuWS76ynmjQ/profile-treasury-document-pdf-analyzed/0/1705982061135?e=1706745600&v=beta&t=lvWtGR7ztmvAJ1Bmnw7HSoP8gi7VYdxi0Q1cyWdE0JEp",
+        "type": "link"
+      }
     ]
 
 }

@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+      "image": "images/projects/galacticsalvagedemo.gif",
+      "title": "Galactic Salvage",
+      "bodyText": "- A (really early) RTS Tower Defense game based in procedurally generated worlds across the cosmos.\n - Harvest Resources, Build bases and drones to fight off enemy world colonisers.\n - Built in Unity, with procedural generation created with perlin noise.",
+      "links": [
+        {
+        }
+      ],
+      "tags": [
+        "Unity",
+        "Procedural Generation",
+        "C#"
+      ]
+    },
+    {
       "image": "images/projects/crimescapedemo.gif",
       "title": "CrimeScape",
       "bodyText": "- A crime data visualizer and AI forecaster made for ConUHacks 8!\n- Displays crime heatmap of Montreal with real data provided by the city.\n- CrimeScape is an a Award Winning Project at ConUHacks 8 - Award: Best Usage of MongoDB",
