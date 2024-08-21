@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "image": "images/projects/phishnet.jpg",
+      "title": "PhishNet",
+      "bodyText": "A messaging mobile application that filters out scam/spam messages. Made for Android.",
+      "links": [
+        {
+          "text": "Devpost",
+          "href": "https://devpost.com/software/phishnet-wf0otc"
+        }
+      ],
+        "tags": [
+          "Android",
+          "Java",
+          "Solace PubSub+",
+          "Machine Learning",
+          "Hackathon"
+        ]
+    },
+    {
       "image": "images/projects/galacticsalvagedemo.gif",
       "title": "Galactic Salvage",
       "bodyText": "- A (really early) RTS Tower Defense game based in procedurally generated worlds across the cosmos.\n - Harvest Resources, Build bases and drones to fight off enemy world colonisers.\n - Built in Unity, with procedural generation created with perlin noise.",
